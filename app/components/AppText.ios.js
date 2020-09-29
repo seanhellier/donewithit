@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
 	text: {
 		fontSize: 40,
 		fontFamily: "avenir",
-		color: "tomato",
+		color: "yellow",
 	},
 });
 
