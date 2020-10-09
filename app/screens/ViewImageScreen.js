@@ -17,13 +17,13 @@ function ViewImageScreen(props) {
 			<MaterialCommunityIcons
 				style={styles.trash}
 				name="trash-can-outline"
-				size={40}
+				size={30}
 				color="white"
 			/>
 			<MaterialCommunityIcons
 				style={styles.close}
 				name="close"
-				size={40}
+				size={30}
 				color="white"
 			/>
 			<Image
@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
 		position: "absolute",
 		top: 40,
 		left: 30,
-		paddingTop: Platform.OS === "android" ? StatusBar.currentHeight : 0,
+		// paddingTop: Platform.OS === "android" ? StatusBar.currentHeight : 0,
 	},
 	trash: {
 		position: "absolute",
