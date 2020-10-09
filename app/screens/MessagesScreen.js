@@ -1,6 +1,5 @@
 import React from "react";
 import { FlatList, StyleSheet, View } from "react-native";
-import { MaterialCommunityIcons } from "@expo/vector-icons";
 
 import ListItem from "../components/ListItem";
 import ListItemDeleteAction from "../components/ListItemDeleteAction";
@@ -34,7 +33,9 @@ function MessagesScreen(props) {
 						subTitle={item.description}
 						image={item.image}
 						onPress={() => console.log("message selected", item)}
-						renderRightActions={ListItemDeleteAction}
+						renderRightActions={() => (
+							<ListItemDeleteAction onPress={() => console.log(item)} />
+						)}
 					/>
 				)}
 				ItemSeparatorComponent={ListItemSeperator}
