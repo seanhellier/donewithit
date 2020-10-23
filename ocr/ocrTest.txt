@@ -1,0 +1,11 @@
+import { StyleSheet, Text, Image, SafeAreaView } from "reac                                                         export default function App() {
+c                                                         export default function App() {
+export default function App() {
+ return (
+  <SafeAreaView styIe=fstyles.containerl> 
+   <Text>Hello React Native</Text>
+   <Image
+    source={{
+     width: 200,
+     height: 300,
+     uri: "https://picsum.photos/200/300",

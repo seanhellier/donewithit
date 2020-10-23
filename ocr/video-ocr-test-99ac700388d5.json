@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "video-ocr-test",
+  "private_key_id": "99ac700388d55f5b10a53ed3cb158b4e8f4a8378",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPQ6ZWwS6YGrjg\nZjJs+3j+oglzGXqVhb0+L/pyg+k0WqCzCaXNTj+1cgLsjZyXOPetpSlzwcz8nf6f\nAmsGt0D0Sp2yOQHnxz03BXgpsYXex8Hzu5A9Eqs8KkvG7iWzJZnqfK/R1KhrcNsL\nuUu/VZEsCM/K58igqIhjunQWGG1efhcIeeNf0/0Wa9i4+NTCu0ALuy/GnFUNR40o\n6t0pzOc4eNYhQn4IvK3N+3ewYkEoDxWC8wDqzQsTD98CK1TKLTxYeVy+BKBm0K6M\nOQvBgxNM5WUkZeYkoyHBrg7qdyzwu6qFaQ4bRWZOa61BEH+sZH6Ld3obSUeNjm+t\nqD4Uq+3LAgMBAAECggEADZaj1dWTK8m6C+GSC28ZPv3PR3UzgjtjGCv7wXzrJybh\n7kWtpx4q3ccnG0HViFyQcG6pnxCPqJLl2fWbSrTCVMHSQO2tNaLsXSpwobB6fwvy\n/VBzY8L7kwA645ntbXyuRfSoGkZU8bupFhsEilDJKcKSIlK75pHmDz5u1JwECkkf\nySbWSiq7GGjjod5tMkqZOOTMKw5uFBgKtJizWc6nkZ/uzPcDp3S0OIUH3vE4Jxtv\nREtGSfa/B+aUKi04j6BHXaxpFnaTcAn3yFcqvUQyvgL6pQ5OEYVRc5S248JdBUsk\n2QWgFhecbQvNSyM7Ob2K76vJchLN/4H93tceK39A4QKBgQDnfIx+w7OAsUY7hk2a\nHYO7Ac0NW94Moy00XHr+f9+hJkVztFkLBvLylqPLS2QodxbswpuF6pgcj3hcZ4gf\nSUAVmTLwtNdGwwGyKYI09hQt5X4xkhZbwZfaJXHW0EuYkUSnS6px2yfgzsnJ72Xy\ny2X6zB5yyKS6HF5izaV1rbq7swKBgQDlNnNxqGtS8CucADhVQVTcz+Wmfz5GW4Sr\n2zVxmaQbCXO/FIEvaf5rlSrstDXMkSNQNc2nkrbrBRCdXtrQUv+4pOnyUboqfpX/\nTnrBt4RYQ4MgL4xTYlNvHlm0Hy4JF8JauGzrEruKESfOVIjYcwBhg+wWbM3HQcMD\npmWMOnMZiQKBgAuHaHfnx0jhi13rknHahnUJ4eyIZsa6WcYB1R5XwAuGnG7mzIiA\nEBmE5yN43cQmKj4gcx54UJsbiiMQBPeJ7mck+iSC3TXpAGyfJJz+pIKkq2RMolBv\nk+CJfOH1/c3bbk/mtNZ208Wehu5HvgwZlTqob9vHomyifRDurQ7vWB2BAoGBALve\niXjbJjxwhg3zUDjwt3HVJNH28UARuwhxP7jAyXUvpiMz1z7ZjaL4PJqOipoFTABu\nWQXEhxDSse+K06Z0oQzifq4Stpgl8SO1W4BzvpHppAw5bLbbnK8zHSs5cy4Yv0BE\ncWGrlPNxZEMFnrRqbiF/U35955wuFn1jYVAyiCyhAoGBAIgp8OhLw5I91ySk0N8F\n/b+Vbt/3ezjanM5Kj3lwzMyknA55wIE3SALDHeQUAHeG0HTL4ffMicb4wGYVEC5v\niBCd9ZEapKHXsznH8PoTKYMxUSMIesyp6P9Cb5bTkEXwGaGoGd4YUPVOFcuWAtkb\nxeUz8OF3PNX2HLYTc+t1k/sd\n-----END PRIVATE KEY-----\n",
+  "client_email": "seanleifhellier@video-ocr-test.iam.gserviceaccount.com",
+  "client_id": "102099956077763526632",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/seanleifhellier%40video-ocr-test.iam.gserviceaccount.com"
+}
